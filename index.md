@@ -9,8 +9,8 @@ position:absolute;
 top:1vh; 
 left:1vw;
 width:3vh; 
-height:100vw;
-color:#1f75fe; 
+height:3vw;
+color:#000; 
 
 
 
