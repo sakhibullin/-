@@ -1,25 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<script type="text/javascript">
-		function hide(a){
-document.getElementById('Koputers').style.display='block';
-document.getElementById('Phones').style.display='none'
-document.getElementById('Acses').style.display='none'
 
-		function hide_1(a){
-document.getElementById('Phones').style.display='block';
-document.getElementById('Koputers').style.display='none'
-document.getElementById('Acses').style.display='none'
-
-		function hide_2(a){
-document.getElementById('Acses').style.display='block';
-document.getElementById('Phones').style.display='none'
-document.getElementById('Koputers').style.display='none'
-
-		}
-	</script>
-	<title></title>
   <meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="style2.css">
 	<meta name="forma-detection" content="telephone=no"/>
