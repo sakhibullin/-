@@ -1,7 +1,5 @@
 
   <meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="style2.css">
-	<meta name="forma-detection" content="telephone=no"/>
 <meta name="author" content="S Albert"/>
 <meta name="vieport" content="width=device-width,
                               height=device-height"/>
@@ -9,7 +7,6 @@
 <meta name="keywords" content="Купить компьютер,Девайсы для компьютера"/>
 <meta name="description" content=""/>
 <meta name="og:title" content="" />
-<link rel="stylesheet" type="text/css" href="style1.css">
 </head>
 <body style="font-family: cooper black">
 <div style="
