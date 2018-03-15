@@ -1,0 +1,7 @@
+.menu p:hover 
+{background-color: #000;
+z-index: 1;
+}
+#Koputers{display: none;}
+#Phones{display: none;} 
+#Acses{display: none;} 
