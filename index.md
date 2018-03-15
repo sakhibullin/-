@@ -55,15 +55,15 @@ height: 89.6vh;
   ;" onclick="document.getElementById('Koputers').style.display='block';
 document.getElementById('Phones').style.display='none'
 document.getElementById('Acses').style.display='none'">
-  <p style="color:#03A9F4;text-decoration: none;position: absolute;top:-2vh;left:5vw;font-size:2vw;  ">Компьютеры</p></a></li>
+  <p style="color:#03A9F4;text-decoration: none;position: absolute;top:0vh;left:5vw;font-size:2vw;  ">Компьютеры</p></a></li>
   <li><a href="" onclick="document.getElementById('Phones').style.display='block';
 document.getElementById('Koputers').style.display='none'
 document.getElementById('Acses').style.display='none'" style="background-color:#0000ff;position: absolute;top:15vh;left:1vw;width:20vw;height:10vh ;">
-    <p style="color:#03A9F4;text-decoration: none;position: absolute;top:-2vh;left:5vw;font-size:2vw;  ">Телефоны</p></a></li>
+    <p style="color:#03A9F4;text-decoration: none;position: absolute;top:0vh;left:5vw;font-size:2vw;  ">Телефоны</p></a></li>
 <li><a href="" onclick="document.getElementById('Acses').style.display='block';
 document.getElementById('Phones').style.display='none'
 document.getElementById('Koputers').style.display='none'" style="background-color:#0000ff;position: absolute;top:27vh;left:1vw;width:20vw;height:10vh ;">
-  <p style="color:#03A9F4;text-decoration: none; position: absolute;top:-2vh;left:5vw;font-size:2vw; ">Аксессуары</p></a></li>
+  <p style="color:#03A9F4;text-decoration: none; position: absolute;top:0vh;left:5vw;font-size:2vw; ">Аксессуары</p></a></li>
 
 </ul>
 <h1 id="Koputers" style="position: absolute;top:10vh;left:50vw; ">wertrt</h1>
