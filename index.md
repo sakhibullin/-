@@ -92,17 +92,17 @@ style="
 document.getElementById('kek').style.display='none'
 document.getElementById('z1').style.display='none'
 document.getElementById('z2').style.display='none'
-   "><p style="position: absolute;top:-2vh;left:3;font-size: 2vw; ">Компьютеры</p></a></li>
+   "><p style="position: absolute;top:1vh;left:3;font-size: 2vw; ">Компьютеры</p></a></li>
    <li><a href="#" onclick="document.getElementById('kek').style.display='block';
 document.getElementById('lol').style.display='none'
 document.getElementById('z1').style.display='none'
 document.getElementById('z2').style.display='none'
-   "><p style="position: absolute;top:7vh;left:3;font-size: 2vw; ">Телефоны</p></a></li>
+   "><p style="position: absolute;top:10vh;left:3;font-size: 2vw; ">Телефоны</p></a></li>
    <li><a href="#" onclick="document.getElementById('z1').style.display='block';
 document.getElementById('lol').style.display='none'
 document.getElementById('kek').style.display='none'
 document.getElementById('z2').style.display='none'
-   "><p style="position: absolute;top:16vh;left:3;font-size: 2vw; ">Аксессуары</p></a></li>
+   "><p style="position: absolute;top:18vh;left:3;font-size: 2vw; ">Аксессуары</p></a></li>
 </ul>
 </div>
 
@@ -111,7 +111,7 @@ document.getElementById('z2').style.display='none'
 <div id="lol">
 <h2 style="
 position: absolute;
-top:11.5vh;
+top:9vh;
 left:55vw; 
 "> Компьютеры</h2><div>
 <div style="
