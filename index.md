@@ -59,7 +59,7 @@ width:6vw;
 height:6.7vh;
 background-color:#fcf;
 text-decoration: none;
-"><img src="/страницы в бра/Lupa.png" 
+"><img src="Lupa.png" 
 style="
 width: 4vw;
 height: 5vh;
