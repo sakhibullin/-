@@ -51,7 +51,7 @@ left: 23vw;
 width: 43vw;
 height: 6vh;
 ">
-<a href="" style="
+<a href="#" style="
 position: absolute;
 top:2vh ;
 left: 67vw;
@@ -143,7 +143,7 @@ position: absolute;
 top:43vh; 
 left:0vw;
 	">Цена:91 100р</p>
-	<a href=""
+	<a href="#"
 style="
 position: absolute;
 top: 50vh;
@@ -161,7 +161,7 @@ top:0vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Доставить</p></a>
-		<a href=""
+		<a href="#"
 style="
 position: absolute;
 top: 50vh;
@@ -209,7 +209,7 @@ position: absolute;
 top:43vh; 
 left:0vw;
 	">Цена:39990р</p>
-	<a href=""
+	<a href="#"
 style="
 position: absolute;
 top: 50vh;
@@ -227,7 +227,7 @@ top:0vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Доставить</p></a>
-		<a href=""
+		<a href="#"
 style="
 position: absolute;
 top: 50vh;
@@ -275,7 +275,7 @@ position: absolute;
 top:43vh; 
 left:0vw;
 	">Цена:49 990¤</p>
-	<a href=""
+	<a href="#"
 style="
 position: absolute;
 top: 50vh;
