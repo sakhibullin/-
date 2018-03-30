@@ -123,7 +123,7 @@ height:60vh;
 box-shadow:0.2vw 0.2vw 0vw 0vw; 
 background-color: #F5F5F5;
 ">
-	<img src="Komp 1.jpg"
+	<img src="Komp 1.JPG"
 style="
 position: absolute;
 top:1vh;
