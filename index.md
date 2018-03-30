@@ -102,7 +102,7 @@ document.getElementById('z2').style.display='none'
 document.getElementById('lol').style.display='none'
 document.getElementById('kek').style.display='none'
 document.getElementById('z2').style.display='none'
-   "><p style="position: absolute;top:18vh;left:3;font-size: 2vw; ">Аксессуары</p></a></li>
+   "><p style="position: absolute;top:20vh;left:3;font-size: 2vw; ">Аксессуары</p></a></li>
 </ul>
 </div>
 
@@ -123,7 +123,7 @@ height:60vh;
 box-shadow:0.2vw 0.2vw 0vw 0vw; 
 background-color: #F5F5F5;
 ">
-	<img src="/Komp 1.jpg"
+	<img src="Komp 1.jpg"
 style="
 position: absolute;
 top:1vh;
@@ -189,7 +189,7 @@ height:60vh;
 box-shadow:0.2vw 0.2vw 0vw 0vw; 
 background-color: #F5F5F5;
 ">
-		<img src="/Komp 2.jpg"
+		<img src="Komp 2.jpg"
 style="
 position: absolute;
 top:1vh;
@@ -255,7 +255,7 @@ height:60vh;
 box-shadow:0.2vw 0.2vw 0vw 0vw; 
 background-color: #F5F5F5;
 ">
-		<img src="/Komp 3.jpg"
+		<img src="Komp 3.jpg"
 style="
 position: absolute;
 top:1vh;
