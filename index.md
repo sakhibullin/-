@@ -111,7 +111,7 @@ document.getElementById('z2').style.display='none'
 <div id="lol">
 <h2 style="
 position: absolute;
-top:9vh;
+top:11.5vh;
 left:55vw; 
 "> Компьютеры</h2><div>
 <div style="
@@ -123,7 +123,7 @@ height:60vh;
 box-shadow:0.2vw 0.2vw 0vw 0vw; 
 background-color: #F5F5F5;
 ">
-	<img src="/страницы в бра/Komp 1.jpg"
+	<img src="/Komp 1.jpg"
 style="
 position: absolute;
 top:1vh;
@@ -157,7 +157,7 @@ border-radius: 10%
 " 
 	><p style="
 position: absolute;
-top:-2vh ;
+top:0vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Доставить</p></a>
@@ -175,7 +175,7 @@ border-radius: 10%
 " 
 	><p style="
 position: absolute;
-top:-3vh ;
+top:-1vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Забрать в магазине</p></a>
@@ -189,7 +189,7 @@ height:60vh;
 box-shadow:0.2vw 0.2vw 0vw 0vw; 
 background-color: #F5F5F5;
 ">
-		<img src="/страницы в бра/Komp 2.jpg"
+		<img src="/Komp 2.jpg"
 style="
 position: absolute;
 top:1vh;
@@ -223,7 +223,7 @@ border-radius: 10%
 " 
 	><p style="
 position: absolute;
-top:-2vh ;
+top:0vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Доставить</p></a>
@@ -241,7 +241,7 @@ border-radius: 10%
 " 
 	><p style="
 position: absolute;
-top:-3vh ;
+top:-1vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Забрать в магазине</p></a>
@@ -255,7 +255,7 @@ height:60vh;
 box-shadow:0.2vw 0.2vw 0vw 0vw; 
 background-color: #F5F5F5;
 ">
-		<img src="/страницы в бра/Komp 3.jpg"
+		<img src="/Komp 3.jpg"
 style="
 position: absolute;
 top:1vh;
@@ -289,7 +289,7 @@ border-radius: 10%
 " 
 	><p style="
 position: absolute;
-top:-2vh ;
+top:0vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Доставить</p></a>
@@ -307,7 +307,7 @@ border-radius: 10%
 " 
 	><p style="
 position: absolute;
-top:-3vh ;
+top:-1vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Забрать в магазине</p></a>
