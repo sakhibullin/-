@@ -153,7 +153,7 @@ background-color:#536dfe;
 text-decoration: none;
 color: #fff;
 border-radius: 10%
-" 
+" onclick="document.getElementById('d').style.display='block';"
 	><p style="
 position: absolute;
 top:1vh ;
@@ -219,7 +219,7 @@ background-color:#536dfe;
 text-decoration: none;
 color: #fff;
 border-radius: 10%
-" 
+" onclick="document.getElementById('d').style.display='block';"
 	><p style="
 position: absolute;
 top:1vh ;
@@ -285,7 +285,7 @@ background-color:#536dfe;
 text-decoration: none;
 color: #fff;
 border-radius: 10%
-" 
+" onclick="document.getElementById('d').style.display='block';"
 	><p style="
 position: absolute;
 top:1vh ;
@@ -359,7 +359,7 @@ background-color:#536dfe;
 text-decoration: none;
 color: #fff;
 border-radius: 10%
-" 
+" onclick="document.getElementById('d').style.display='block';"
 	><p style="
 position: absolute;
 top:1vh ;
@@ -425,7 +425,7 @@ background-color:#536dfe;
 text-decoration: none;
 color: #fff;
 border-radius: 10%
-" 
+" onclick="document.getElementById('d').style.display='block';"
 	><p style="
 position: absolute;
 top:1vh ;
@@ -491,7 +491,7 @@ background-color:#536dfe;
 text-decoration: none;
 color: #fff;
 border-radius: 10%
-" 
+" onclick="document.getElementById('d').style.display='block';"
 	><p style="
 position: absolute;
 top:1vh ;
@@ -565,7 +565,7 @@ background-color:#536dfe;
 text-decoration: none;
 color: #fff;
 border-radius: 10%
-" 
+" onclick="document.getElementById('d').style.display='block';"
 	><p style="
 position: absolute;
 top:1vh ;
@@ -631,7 +631,7 @@ background-color:#536dfe;
 text-decoration: none;
 color: #fff;
 border-radius: 10%
-" 
+" onclick="document.getElementById('d').style.display='block';"
 	><p style="
 position: absolute;
 top:1vh ;
@@ -697,7 +697,7 @@ background-color:#536dfe;
 text-decoration: none;
 color: #fff;
 border-radius: 10%
-" 
+" onclick="document.getElementById('d').style.display='block';"
 	><p style="
 position: absolute;
 top:1vh ;
@@ -725,5 +725,6 @@ font-size:1.5vw;
 </div>
 </div>
 </div>
+<div id="d"><a href="#" onclick="document.getElementById('d').style.display='none';">Close</a></div>
 </body>
 </html>
