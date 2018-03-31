@@ -613,7 +613,7 @@ height:40vh;
 position: absolute;
 top:40vh; 
 left:0vw;
-	">Зарядное устройство для телефона Android/IOS</p>
+	">Зарядное устройство для телефона</p>
 		<p style="
 	font-family: Arial;
 position: absolute;
