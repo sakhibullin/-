@@ -50,11 +50,11 @@ element.style{background-color:#37474f; }
      #z2{ display: none;}
      .z3{color: #000;}
      #d{
-width: 20vw;
-height: 20vh;
-background-color: /*#37474f*/#000;
+width: 40vw;
+height: 40vh;
+background-color:#37474f;
 position: absolute;
-top: 20vh;
+top: 29vh;
 left: 35vw;
 color: #fff;
 border-radius: 10%;
