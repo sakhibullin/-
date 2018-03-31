@@ -157,7 +157,7 @@ border-radius: 10%
 " 
 	><p style="
 position: absolute;
-top:0vh ;
+top:1vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Доставить</p></a>
@@ -223,7 +223,7 @@ border-radius: 10%
 " 
 	><p style="
 position: absolute;
-top:0vh ;
+top:1vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Доставить</p></a>
@@ -289,7 +289,7 @@ border-radius: 10%
 " 
 	><p style="
 position: absolute;
-top:0vh ;
+top:1vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Доставить</p></a>
