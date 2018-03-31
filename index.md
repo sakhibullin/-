@@ -87,8 +87,7 @@ style="
 
 " 
  >
-
-   <li><a href="#" onclick="document.getElementById('lol').style.display='block';
+ <li><a href="#" onclick="document.getElementById('lol').style.display='block';
 document.getElementById('kek').style.display='none'
 document.getElementById('z1').style.display='none'
 document.getElementById('z2').style.display='none'
@@ -320,6 +319,11 @@ font-size:1.5vw;
 position: absolute;
 top:9vh;
 left:55vw; ">Телефоны</h2><div>
+<h2 style="
+position: absolute;
+top:9vh;
+left:55vw; 
+"> Компьютеры</h2><div>
 <div style="
 position: absolute;
 top:20vh;
@@ -329,7 +333,62 @@ height:60vh;
 box-shadow:0.2vw 0.2vw 0vw 0vw; 
 background-color: #F5F5F5;
 ">
-	
+	<img src="Komp 1.JPG"
+style="
+position: absolute;
+top:1vh;
+left:1vw;
+width:18.8vw; 
+height:40vh;
+" 
+	><p style="
+	font-family: Arial;
+position: absolute;
+top:40vh; 
+left:0vw;
+	">Компьютер Game PC 750SE</p>
+		<p style="
+	font-family: Arial;
+position: absolute;
+top:43vh; 
+left:0vw;
+	">Цена:91 100р</p>
+	<a href="#"
+style="
+position: absolute;
+top: 50vh;
+left: 0.5vw;
+width: 9vw;
+height: 8vh;
+background-color:#536dfe;
+text-decoration: none;
+color: #fff;
+border-radius: 10%
+" 
+	><p style="
+position: absolute;
+top:1vh ;
+left:1vw ;
+font-size:1.5vw;
+	">Доставить</p></a>
+		<a href="#"
+style="
+position: absolute;
+top: 50vh;
+left: 10vw;
+width: 9vw;
+height: 8vh;
+background-color:#536dfe;
+text-decoration: none;
+color: #fff;
+border-radius: 10%
+" 
+	><p style="
+position: absolute;
+top:-1vh ;
+left:1vw ;
+font-size:1.5vw;
+	">Забрать в магазине</p></a>
 </div>
 <div style="
 position: absolute;
@@ -340,7 +399,62 @@ height:60vh;
 box-shadow:0.2vw 0.2vw 0vw 0vw; 
 background-color: #F5F5F5;
 ">
-	
+		<img src="Komp 2.jpg"
+style="
+position: absolute;
+top:1vh;
+left:1vw;
+width:18.8vw; 
+height:40vh;
+" 
+	><p style="
+	font-family: Arial;
+position: absolute;
+top:40vh; 
+left:0vw;
+	">Системный блок Lenovo IdeaCentre</p>
+		<p style="
+	font-family: Arial;
+position: absolute;
+top:43vh; 
+left:0vw;
+	">Цена:39990р</p>
+	<a href="#"
+style="
+position: absolute;
+top: 50vh;
+left: 0.5vw;
+width: 9vw;
+height: 8vh;
+background-color:#536dfe;
+text-decoration: none;
+color: #fff;
+border-radius: 10%
+" 
+	><p style="
+position: absolute;
+top:1vh ;
+left:1vw ;
+font-size:1.5vw;
+	">Доставить</p></a>
+		<a href="#"
+style="
+position: absolute;
+top: 50vh;
+left: 10vw;
+width: 9vw;
+height: 8vh;
+background-color:#536dfe;
+text-decoration: none;
+color: #fff;
+border-radius: 10%
+" 
+	><p style="
+position: absolute;
+top:-1vh ;
+left:1vw ;
+font-size:1.5vw;
+	">Забрать в магазине</p></a>
 </div>
 <div style="
 position: absolute;
@@ -351,7 +465,62 @@ height:60vh;
 box-shadow:0.2vw 0.2vw 0vw 0vw; 
 background-color: #F5F5F5;
 ">
-	
+		<img src="Komp 3.jpg"
+style="
+position: absolute;
+top:1vh;
+left:1vw;
+width:18.8vw; 
+height:40vh;
+" 
+	><p style="
+	font-family: Arial;
+position: absolute;
+top:40vh; 
+left:0vw;
+	">Ноутбук HP Pavilion 15</p>
+		<p style="
+	font-family: Arial;
+position: absolute;
+top:43vh; 
+left:0vw;
+	">Цена:49 990¤</p>
+	<a href="#"
+style="
+position: absolute;
+top: 50vh;
+left: 0.5vw;
+width: 9vw;
+height: 8vh;
+background-color:#536dfe;
+text-decoration: none;
+color: #fff;
+border-radius: 10%
+" 
+	><p style="
+position: absolute;
+top:1vh ;
+left:1vw ;
+font-size:1.5vw;
+	">Доставить</p></a>
+		<a href=""
+style="
+position: absolute;
+top: 50vh;
+left: 10vw;
+width: 9vw;
+height: 8vh;
+background-color:#536dfe;
+text-decoration: none;
+color: #fff;
+border-radius: 10%
+" 
+	><p style="
+position: absolute;
+top:-1vh ;
+left:1vw ;
+font-size:1.5vw;
+	">Забрать в магазине</p></a>
 </div>
 </div>
 </div>
@@ -361,6 +530,11 @@ position: absolute;
 top:9vh;
 left:55vw; 
 ">Аксессуары</h2><div>
+<h2 style="
+position: absolute;
+top:9vh;
+left:55vw; 
+"> Компьютеры</h2><div>
 <div style="
 position: absolute;
 top:20vh;
@@ -370,7 +544,62 @@ height:60vh;
 box-shadow:0.2vw 0.2vw 0vw 0vw; 
 background-color: #F5F5F5;
 ">
-	
+	<img src="Komp 1.JPG"
+style="
+position: absolute;
+top:1vh;
+left:1vw;
+width:18.8vw; 
+height:40vh;
+" 
+	><p style="
+	font-family: Arial;
+position: absolute;
+top:40vh; 
+left:0vw;
+	">Компьютер Game PC 750SE</p>
+		<p style="
+	font-family: Arial;
+position: absolute;
+top:43vh; 
+left:0vw;
+	">Цена:91 100р</p>
+	<a href="#"
+style="
+position: absolute;
+top: 50vh;
+left: 0.5vw;
+width: 9vw;
+height: 8vh;
+background-color:#536dfe;
+text-decoration: none;
+color: #fff;
+border-radius: 10%
+" 
+	><p style="
+position: absolute;
+top:1vh ;
+left:1vw ;
+font-size:1.5vw;
+	">Доставить</p></a>
+		<a href="#"
+style="
+position: absolute;
+top: 50vh;
+left: 10vw;
+width: 9vw;
+height: 8vh;
+background-color:#536dfe;
+text-decoration: none;
+color: #fff;
+border-radius: 10%
+" 
+	><p style="
+position: absolute;
+top:-1vh ;
+left:1vw ;
+font-size:1.5vw;
+	">Забрать в магазине</p></a>
 </div>
 <div style="
 position: absolute;
@@ -381,7 +610,62 @@ height:60vh;
 box-shadow:0.2vw 0.2vw 0vw 0vw; 
 background-color: #F5F5F5;
 ">
-	
+		<img src="Komp 2.jpg"
+style="
+position: absolute;
+top:1vh;
+left:1vw;
+width:18.8vw; 
+height:40vh;
+" 
+	><p style="
+	font-family: Arial;
+position: absolute;
+top:40vh; 
+left:0vw;
+	">Системный блок Lenovo IdeaCentre</p>
+		<p style="
+	font-family: Arial;
+position: absolute;
+top:43vh; 
+left:0vw;
+	">Цена:39990р</p>
+	<a href="#"
+style="
+position: absolute;
+top: 50vh;
+left: 0.5vw;
+width: 9vw;
+height: 8vh;
+background-color:#536dfe;
+text-decoration: none;
+color: #fff;
+border-radius: 10%
+" 
+	><p style="
+position: absolute;
+top:1vh ;
+left:1vw ;
+font-size:1.5vw;
+	">Доставить</p></a>
+		<a href="#"
+style="
+position: absolute;
+top: 50vh;
+left: 10vw;
+width: 9vw;
+height: 8vh;
+background-color:#536dfe;
+text-decoration: none;
+color: #fff;
+border-radius: 10%
+" 
+	><p style="
+position: absolute;
+top:-1vh ;
+left:1vw ;
+font-size:1.5vw;
+	">Забрать в магазине</p></a>
 </div>
 <div style="
 position: absolute;
@@ -392,7 +676,62 @@ height:60vh;
 box-shadow:0.2vw 0.2vw 0vw 0vw; 
 background-color: #F5F5F5;
 ">
-	
+		<img src="Komp 3.jpg"
+style="
+position: absolute;
+top:1vh;
+left:1vw;
+width:18.8vw; 
+height:40vh;
+" 
+	><p style="
+	font-family: Arial;
+position: absolute;
+top:40vh; 
+left:0vw;
+	">Ноутбук HP Pavilion 15</p>
+		<p style="
+	font-family: Arial;
+position: absolute;
+top:43vh; 
+left:0vw;
+	">Цена:49 990¤</p>
+	<a href="#"
+style="
+position: absolute;
+top: 50vh;
+left: 0.5vw;
+width: 9vw;
+height: 8vh;
+background-color:#536dfe;
+text-decoration: none;
+color: #fff;
+border-radius: 10%
+" 
+	><p style="
+position: absolute;
+top:1vh ;
+left:1vw ;
+font-size:1.5vw;
+	">Доставить</p></a>
+		<a href=""
+style="
+position: absolute;
+top: 50vh;
+left: 10vw;
+width: 9vw;
+height: 8vh;
+background-color:#536dfe;
+text-decoration: none;
+color: #fff;
+border-radius: 10%
+" 
+	><p style="
+position: absolute;
+top:-1vh ;
+left:1vw ;
+font-size:1.5vw;
+	">Забрать в магазине</p></a>
 </div>
 </div>
 </div>
