@@ -619,7 +619,7 @@ left:0vw;
 position: absolute;
 top:43vh; 
 left:0vw;
-	">Цена:500р-1000h</p>
+	">Цена:500р-1000р</p>
 	<a href="#"
 style="
 position: absolute;
