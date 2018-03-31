@@ -319,11 +319,6 @@ font-size:1.5vw;
 position: absolute;
 top:9vh;
 left:55vw; ">Телефоны</h2><div>
-<h2 style="
-position: absolute;
-top:9vh;
-left:55vw; 
-"> Компьютеры</h2><div>
 <div style="
 position: absolute;
 top:20vh;
@@ -530,11 +525,6 @@ position: absolute;
 top:9vh;
 left:55vw; 
 ">Аксессуары</h2><div>
-<h2 style="
-position: absolute;
-top:9vh;
-left:55vw; 
-"> Компьютеры</h2><div>
 <div style="
 position: absolute;
 top:20vh;
