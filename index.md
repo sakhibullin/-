@@ -10,7 +10,7 @@
 <meta name="vieport" content="width=device-width,
                               height=device-height"/>
 <meta name="them-color" content="#fffccc"/>
-<meta name="keywords" content="Купить компьютер,Девайсы для компьютера"/>
+<meta name="keywords" content="Купить компьютер,Девайсы,BuyDevice"/>
 <meta name="description" content=""/>
 <meta name="og:title" content="" />
 <link rel="stylesheet" type="text/css" href="style1.css">
