@@ -328,7 +328,7 @@ height:60vh;
 box-shadow:0.2vw 0.2vw 0vw 0vw; 
 background-color: #F5F5F5;
 ">
-	<img src="Komp 1.JPG"
+	<img src="Phone 1.jpg"
 style="
 position: absolute;
 top:1vh;
@@ -341,13 +341,13 @@ height:40vh;
 position: absolute;
 top:40vh; 
 left:0vw;
-	">Компьютер Game PC 750SE</p>
+	">Xiaomi Redmi 5 Plus 3/32GB</p>
 		<p style="
 	font-family: Arial;
 position: absolute;
 top:43vh; 
 left:0vw;
-	">Цена:91 100р</p>
+	">Цена:10 890р</p>
 	<a href="#"
 style="
 position: absolute;
@@ -394,7 +394,7 @@ height:60vh;
 box-shadow:0.2vw 0.2vw 0vw 0vw; 
 background-color: #F5F5F5;
 ">
-		<img src="Komp 2.jpg"
+		<img src="Phone 2.jpg"
 style="
 position: absolute;
 top:1vh;
@@ -407,13 +407,13 @@ height:40vh;
 position: absolute;
 top:40vh; 
 left:0vw;
-	">Системный блок Lenovo IdeaCentre</p>
+	">Sony Xperia XZ2</p>
 		<p style="
 	font-family: Arial;
 position: absolute;
 top:43vh; 
 left:0vw;
-	">Цена:39990р</p>
+	">Цена:59 990р</p>
 	<a href="#"
 style="
 position: absolute;
@@ -460,7 +460,7 @@ height:60vh;
 box-shadow:0.2vw 0.2vw 0vw 0vw; 
 background-color: #F5F5F5;
 ">
-		<img src="Komp 3.jpg"
+		<img src="Phone 3.jpg"
 style="
 position: absolute;
 top:1vh;
@@ -473,13 +473,13 @@ height:40vh;
 position: absolute;
 top:40vh; 
 left:0vw;
-	">Ноутбук HP Pavilion 15</p>
+	">Samsung Galaxy J7</p>
 		<p style="
 	font-family: Arial;
 position: absolute;
 top:43vh; 
 left:0vw;
-	">Цена:49 990¤</p>
+	">Цена:16 390p</p>
 	<a href="#"
 style="
 position: absolute;
