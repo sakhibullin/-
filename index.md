@@ -725,6 +725,12 @@ font-size:1.5vw;
 </div>
 </div>
 </div>
-<div id="d"><a href="#" onclick="document.getElementById('d').style.display='none';"><p>Вы не Авиторизировались</p></a></div>
+<div id="d"><a href="#" onclick="document.getElementById('d').style.display='none';"><p style="
+position: absolute;
+top: 30vh;
+left: 25vw;
+font-size: 2vw;
+" 
+	>Вы не Авиторизировались</p></a></div>
 </body>
 </html>
