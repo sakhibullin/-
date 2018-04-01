@@ -733,14 +733,14 @@ width:8vw;
 height:10vh;
 position: absolute;
 top:1vh;
-left:30vw;
+left:25vw;
 "><img src="Close.png"
 style="
 width:8vw;
 height:10vh;
 position: absolute;
 top:1vh;
-left:30vw;
+left:25vw;
 " 
 ></a><p style="
 position: absolute;
