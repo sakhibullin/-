@@ -175,7 +175,7 @@ text-decoration: none;
 color: #fff;
 border-radius: 10%
 " 
-	><p style="
+	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
 top:-1vh ;
 left:1vw ;
@@ -241,7 +241,7 @@ text-decoration: none;
 color: #fff;
 border-radius: 10%
 " 
-	><p style="
+	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
 top:-1vh ;
 left:1vw ;
@@ -307,7 +307,7 @@ text-decoration: none;
 color: #fff;
 border-radius: 10%
 " 
-	><p style="
+	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
 top:-1vh ;
 left:1vw ;
@@ -381,7 +381,7 @@ text-decoration: none;
 color: #fff;
 border-radius: 10%
 " 
-	><p style="
+	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
 top:-1vh ;
 left:1vw ;
@@ -447,7 +447,7 @@ text-decoration: none;
 color: #fff;
 border-radius: 10%
 " 
-	><p style="
+	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
 top:-1vh ;
 left:1vw ;
@@ -513,7 +513,7 @@ text-decoration: none;
 color: #fff;
 border-radius: 10%
 " 
-	><p style="
+	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
 top:-1vh ;
 left:1vw ;
@@ -587,7 +587,7 @@ text-decoration: none;
 color: #fff;
 border-radius: 10%
 " 
-	><p style="
+	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
 top:-1vh ;
 left:1vw ;
@@ -653,7 +653,7 @@ text-decoration: none;
 color: #fff;
 border-radius: 10%
 " 
-	><p style="
+	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
 top:-1vh ;
 left:1vw ;
@@ -719,7 +719,7 @@ text-decoration: none;
 color: #fff;
 border-radius: 10%
 " 
-	><p style="
+	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
 top:-1vh ;
 left:1vw ;
