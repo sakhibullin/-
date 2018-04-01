@@ -734,6 +734,7 @@ height:10vh;
 position: absolute;
 top:1vh;
 left:25vw;
+border-radius: 50%;
 "><img src="Close.png"
 style="
 width:8vw;
@@ -741,6 +742,7 @@ height:10vh;
 position: absolute;
 top:1vh;
 left:6.5vw;
+border-radius: 50%;
 " 
 ></a><p style="
 position: absolute;
