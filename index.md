@@ -728,7 +728,15 @@ font-size:1.5vw;
 </div>
 </div>
 </div>
-<div id="d"><a href="#" onclick="document.getElementById('d').style.display='none';"></a><p style="
+<div id="d"><a href="#" onclick="document.getElementById('d').style.display='none';"><img src="Close.png"
+style="
+width:10vw;
+height:10vh;
+position: absolute;
+top:1vh;
+left:21vw;
+" 
+></a><p style="
 position: absolute;
 top: 3vh;
 left: 7.5vw;
