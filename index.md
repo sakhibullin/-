@@ -740,7 +740,7 @@ width:8vw;
 height:10vh;
 position: absolute;
 top:1vh;
-left:5vw;
+left:6.5vw;
 " 
 ></a><p style="
 position: absolute;
