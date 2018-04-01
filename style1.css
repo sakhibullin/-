@@ -41,7 +41,6 @@ element.style{background-color:#37474f; }
      color: #FFEB3B;
      padding: 6px 0 8px 22px;
      }
-     #lol{ display: none;}
 
      #kek{ display: none;}
 
@@ -52,7 +51,7 @@ element.style{background-color:#37474f; }
      #d{
 width: 40vw;
 height: 40vh;
-background-color:#37474f;
+background-color:#fff;
 position: absolute;
 top: 29vh;
 left: 35vw;
