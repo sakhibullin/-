@@ -725,13 +725,27 @@ font-size:1.5vw;
 </div>
 </div>
 </div>
-<div id="d"><a href="#" onclick="document.getElementById('d').style.display='none';"><p style="
+<div id="d"><a href="#" onclick="document.getElementById('d').style.display='none';"></a><p style="
 position: absolute;
 top: 3vh;
-left: 5vw;
+left: 7.5vw;
 font-size: 2vw;
 color: #000;
-" 
-	>Вы не Авиторизировались</p></a></div>
+" 	>Вы не Авиторизировались</p>
+<a href="#"><p style="
+font-size: 1.5vw;
+position: absolute;
+top:7vh ;
+left:15vw ;
+text-decoration: none;
+" 	>Вход</p></a>
+<a href="#"><p style="
+font-size: 1.5vw;
+position: absolute;
+top:11vh ;
+left:15vw ;
+text-decoration: none;
+">Регистрация</p></a>
+</div>
 </body>
 </html>
