@@ -33,11 +33,10 @@
         top: 2vw;
         left:78vw;
          "> Регистрация</a>
-                  <a href="" style="color:#Fff;
+                  <a href="https://sakhibullin.github.io/Komp3.github.io/" style="color:#Fff;
         position: absolute;
         top: 2vw;
         left:75vw;
-
          "> Вход/</a>
          <p style="color:#fff;
          position:absolute; 
@@ -751,14 +750,14 @@ left: 7.5vw;
 font-size: 2vw;
 color: #000;
 " 	>Вы не Авиторизировались</p>
-<a href="#"><p style="
+<a href="https://sakhibullin.github.io/Komp3.github.io/"><p style="
 font-size: 2vw;
 position: absolute;
 top:9vh ;
 left:15vw ;
 text-decoration: none;
 " 	>Вход</p></a>
-<a href="#"><p style="
+<a href="https://sakhibullin.github.io/Komp2.github.io/#"><p style="
 font-size: 2vw;
 position: absolute;
 top:14vh ;
