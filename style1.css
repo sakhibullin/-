@@ -41,7 +41,6 @@ element.style{background-color:#37474f; }
      color: #FFEB3B;
      padding: 6px 0 8px 22px;
      }
-     #lol{ display: none;}
 
      #kek{ display: none;}
 
@@ -50,9 +49,15 @@ element.style{background-color:#37474f; }
      #z2{ display: none;}
      .z3{color: #000;}
      #d{
+<<<<<<< HEAD
 width: 50vw;
 height: 50vh;
 background-color:#f2f2f2;
+=======
+width: 40vw;
+height: 40vh;
+background-color:#fff;
+>>>>>>> 8074f61e7ca3df517a4b1977bcbf7b061b0cea89
 position: absolute;
 top: 29vh;
 left: 35vw;

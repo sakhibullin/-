@@ -725,6 +725,6 @@ font-size:1.5vw;
 </div>
 </div>
 </div>
-<div id="d"><a href="#" onclick="document.getElementById('d').style.display='none';">Close</a></div>
+<div id="d"><a href="#" onclick="document.getElementById('d').style.display='none';"><p>Вы не Авиторизировались</p></a></div>
 </body>
 </html>
