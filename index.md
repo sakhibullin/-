@@ -733,16 +733,16 @@ font-size: 2vw;
 color: #000;
 " 	>Вы не Авиторизировались</p>
 <a href="#"><p style="
-font-size: 1.5vw;
+font-size: 2vw;
 position: absolute;
-top:7vh ;
+top:9vh ;
 left:15vw ;
 text-decoration: none;
 " 	>Вход</p></a>
 <a href="#"><p style="
-font-size: 1.5vw;
+font-size: 2vw;
 position: absolute;
-top:11vh ;
+top:14vh ;
 left:15vw ;
 text-decoration: none;
 ">Регистрация</p></a>
