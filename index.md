@@ -728,7 +728,7 @@ font-size:1.5vw;
 <div id="d"><a href="#" onclick="document.getElementById('d').style.display='none';"><p style="
 position: absolute;
 top: 3vh;
-left: 15vw;
+left: 5vw;
 font-size: 2vw;
 color: #000;
 " 
