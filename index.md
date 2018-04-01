@@ -743,7 +743,7 @@ text-decoration: none;
 font-size: 2vw;
 position: absolute;
 top:14vh ;
-left:15vw ;
+left:11.5vw ;
 text-decoration: none;
 ">Регистрация</p></a>
 </div>
