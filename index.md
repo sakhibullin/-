@@ -28,7 +28,7 @@
             left:1vw;
             top: 0.1vh;"
          ><big><strong> <em>BuyDevice</em></strong></big></h2>
-        <a href="index1.md" style="color:#fff;
+        <a href="index1.html" style="color:#fff;
        position: absolute;
         top: 2vw;
         left:78vw;
