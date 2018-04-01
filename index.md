@@ -754,7 +754,7 @@ color: #000;
 font-size: 2vw;
 position: absolute;
 top:15vh ;
-left:15vw ;
+left:12vw ;
 text-decoration: none;
 " 	>Вход</p></a>
 <a href="https://sakhibullin.github.io/Komp2.github.io/#"><p style="
