@@ -89,16 +89,19 @@ style="
  >
  <li><a href="#" onclick="document.getElementById('lol').style.display='block';
 document.getElementById('kek').style.display='none'
+document.getElementById('d').style.display='none'
 document.getElementById('z1').style.display='none'
 document.getElementById('z2').style.display='none'
    "><p style="position: absolute;top:1vh;left:3;font-size: 2vw; ">Компьютеры</p></a></li>
    <li><a href="#" onclick="document.getElementById('kek').style.display='block';
 document.getElementById('lol').style.display='none'
 document.getElementById('z1').style.display='none'
+document.getElementById('d').style.display='none'
 document.getElementById('z2').style.display='none'
    "><p style="position: absolute;top:10vh;left:3;font-size: 2vw; ">Телефоны</p></a></li>
    <li><a href="#" onclick="document.getElementById('z1').style.display='block';
 document.getElementById('lol').style.display='none'
+document.getElementById('d').style.display='none'
 document.getElementById('kek').style.display='none'
 document.getElementById('z2').style.display='none'
    "><p style="position: absolute;top:20vh;left:3;font-size: 2vw; ">Аксессуары</p></a></li>
@@ -743,7 +746,7 @@ text-decoration: none;
 font-size: 2vw;
 position: absolute;
 top:14vh ;
-left:11.5vw ;
+left:13vw ;
 text-decoration: none;
 ">Регистрация</p></a>
 </div>
