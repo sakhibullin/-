@@ -753,8 +753,8 @@ color: #000;
 <a href="https://sakhibullin.github.io/Komp3.github.io/"><p style="
 font-size: 2vw;
 position: absolute;
-top:15vh ;
-left:12vw ;
+top:11vh ;
+left:15vw ;
 text-decoration: none;
 " 	>Вход</p></a>
 <a href="https://sakhibullin.github.io/Komp2.github.io/#"><p style="
