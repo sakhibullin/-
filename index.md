@@ -179,7 +179,7 @@ position: absolute;
 top:-1vh ;
 left:1vw ;
 font-size:1.5vw;
-	">Забрать в магазине</p></a>
+	">Изучить</p></a>
 </div>
 <div style="
 position: absolute;
@@ -245,7 +245,7 @@ position: absolute;
 top:-1vh ;
 left:1vw ;
 font-size:1.5vw;
-	">Забрать в магазине</p></a>
+	">Изучит</p></a>
 </div>
 <div style="
 position: absolute;
@@ -311,7 +311,7 @@ position: absolute;
 top:-1vh ;
 left:1vw ;
 font-size:1.5vw;
-	">Забрать в магазине</p></a>
+	">Изучить</p></a>
 </div>
 </div>
 </div>
@@ -385,7 +385,7 @@ position: absolute;
 top:-1vh ;
 left:1vw ;
 font-size:1.5vw;
-	">Забрать в магазине</p></a>
+	">Изучить</p></a>
 </div>
 <div style="
 position: absolute;
@@ -451,7 +451,7 @@ position: absolute;
 top:-1vh ;
 left:1vw ;
 font-size:1.5vw;
-	">Забрать в магазине</p></a>
+	">Изучить</p></a>
 </div>
 <div style="
 position: absolute;
@@ -517,7 +517,7 @@ position: absolute;
 top:-1vh ;
 left:1vw ;
 font-size:1.5vw;
-	">Забрать в магазине</p></a>
+	">Изучить</p></a>
 </div>
 </div>
 </div>
@@ -591,7 +591,7 @@ position: absolute;
 top:-1vh ;
 left:1vw ;
 font-size:1.5vw;
-	">Забрать в магазине</p></a>
+	">Изучить</p></a>
 </div>
 <div style="
 position: absolute;
@@ -657,7 +657,7 @@ position: absolute;
 top:-1vh ;
 left:1vw ;
 font-size:1.5vw;
-	">Забрать в магазине</p></a>
+	">Изучить</p></a>
 </div>
 <div style="
 position: absolute;
@@ -723,7 +723,7 @@ position: absolute;
 top:-1vh ;
 left:1vw ;
 font-size:1.5vw;
-	">Забрать в магазине</p></a>
+	">Изучить</p></a>
 </div>
 </div>
 </div>
