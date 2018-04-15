@@ -500,7 +500,7 @@ top:1vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Доставить</p></a>
-		<a href=""
+		<a href="#"
 style="
 position: absolute;
 top: 50vh;
@@ -706,7 +706,7 @@ top:1vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Доставить</p></a>
-		<a href=""
+		<a href="#"
 style="
 position: absolute;
 top: 50vh;
