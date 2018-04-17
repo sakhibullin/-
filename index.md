@@ -56,7 +56,7 @@ top:2vh ;
 left: 67vw;
 width:6vw; 
 height:6.7vh;
-background-color:#fcf;
+background-color:#fff;
 text-decoration: none;
 "><img src="Lupa.png" 
 style="
@@ -176,7 +176,7 @@ border-radius: 10%
 " 
 	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
-top:-1vh ;
+top:0.5vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Изучить</p></a>
@@ -242,7 +242,7 @@ border-radius: 10%
 " 
 	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
-top:-1vh ;
+top:0.5vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Изучить</p></a>
@@ -308,7 +308,7 @@ border-radius: 10%
 " 
 	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
-top:-1vh ;
+top:0.5vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Изучить</p></a>
@@ -382,7 +382,7 @@ border-radius: 10%
 " 
 	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
-top:-1vh ;
+top:0.5vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Изучить</p></a>
@@ -448,7 +448,7 @@ border-radius: 10%
 " 
 	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
-top:-1vh ;
+top:0.5vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Изучить</p></a>
@@ -514,7 +514,7 @@ border-radius: 10%
 " 
 	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
-top:-1vh ;
+top:0.5vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Изучить</p></a>
@@ -588,7 +588,7 @@ border-radius: 10%
 " 
 	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
-top:-1vh ;
+top:0.5vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Изучить</p></a>
@@ -654,7 +654,7 @@ border-radius: 10%
 " 
 	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
-top:-1vh ;
+top:0.5vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Изучить</p></a>
@@ -720,7 +720,7 @@ border-radius: 10%
 " 
 	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
-top:-1vh ;
+top:0.5vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Изучить</p></a>
